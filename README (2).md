@@ -40,4 +40,4 @@ Building this as I go through my AI/ML learning path — small, focused scripts 
 ## 👩‍💻 About
 
 Jeni · M.Sc. Computer Science, Marwadi University
-Currently exploring AI/ML tooling and prepping for AI Developer roles.
+Currently exploring AI/ML tooling and preparing for AI Developer roles.
